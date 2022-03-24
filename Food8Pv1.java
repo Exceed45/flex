@@ -42,7 +42,7 @@ public class Food8Pv1 implements Supplier<FlexMessage> {
 
     private Box createBodyBlock() {
         final Text title = Text.builder()
-                .text("วิธีหมูตุ๋นเนื้อลำไย ")
+                .text("วิธีทำหมูตุ๋นเนื้อลำไย ")
                 .weight(Text.TextWeight.BOLD)
                 .size(FlexFontSize.XL)
                 .build();
