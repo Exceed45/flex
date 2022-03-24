@@ -32,7 +32,7 @@ public class Food8Pv1 implements Supplier<FlexMessage> {
 
     private Image createHeroBlock() {
         return Image.builder()
-                .url("https://ed.edtfiles-media.com/ud/gal/dcp/26/76147/Mu_Tum_Lamyai.jpg")
+                .url("https://img.wongnai.com/p/1968x0/2020/04/19/1ed74096cec34f1ab303272ad4e762f1.jpg")
                 .size(Image.ImageSize.FULL_WIDTH)
                 .aspectRatio(ImageAspectRatio.R20TO13)
                 .aspectMode(ImageAspectMode.Cover)
