@@ -23,7 +23,7 @@ public class province8 implements Supplier<FlexMessage> {
         public FlexMessage get() {
         final Bubble bubble1 = createBubble("หมูตุ๋นเนื้อลำไย",
         "5",
-        "https://ed.edtfiles-media.com/ud/gal/dcp/26/76147/Mu_Tum_Lamyai.jpg",
+        "https://img.wongnai.com/p/1968x0/2020/04/19/1ed74096cec34f1ab303272ad4e762f1.jpg",
         false);
         final Bubble bubble2 = createBubble("แกงแคไก่ ",
         "5",
