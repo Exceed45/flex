@@ -187,6 +187,46 @@ public class LineBotController {
                 this.reply(replyToken, new Food3Pv4().get());
                 break;
             }
+            case "อาหารจังหวัดพะเยา" : {
+                this.reply(replyToken, new province4().get());
+                break;
+            }
+            case "วิธีทำแก๋งเห็ดห้า" : {
+                this.reply(replyToken, new Food4Pv1().get());
+                break;
+            }
+            case "วิธีทำคั่วถั่วเน่า" : {
+                this.reply(replyToken, new Food4Pv2().get());
+                break;
+            }
+            case "วิธีทำยำฮก" : {
+                this.reply(replyToken, new Food4Pv3().get());
+                break;
+            }
+            case "วิธีทำไข่ป่าม" : {
+                this.reply(replyToken, new Food4Pv4().get());
+                break;
+            }
+            case "อาหารจังหวัดแพร่" : {
+                this.reply(replyToken, new province5().get());
+                break;
+            }
+            case "วิธีทำตำเตา" : {
+                this.reply(replyToken, new Food5Pv1().get());
+                break;
+            }
+            case "วิธีทำหลู้หมู" : {
+                this.reply(replyToken, new Food5Pv2().get());
+                break;
+            }
+            case "วิธีทำน้ำพริกอ่อง" : {
+                this.reply(replyToken, new Food5Pv3().get());
+                break;
+            }
+            case "วิธีทำขนมจีนน้ำหมู" : {
+                this.reply(replyToken, new Food5Pv4().get());
+                break;
+            }
             default:
                 log.info("Return echo message " + replyToken + ":" + text);
                 this.replyText(replyToken, text);
