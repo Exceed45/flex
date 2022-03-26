@@ -22,19 +22,19 @@ public class province2 implements Supplier<FlexMessage> {
         public FlexMessage get() {
         final Bubble bubble1 = createBubble("ข้าวฟืน",
         "5",
-        "https://drive.google.com/file/d/1ubaVgiS1ufzzRZXxadOqoJ2C1uBLFf4k/view?usp=sharing",
+        "https://reviewchiangmai.com/wp-content/uploads/2021/04/Screen-Shot-2564-04-05-at-16.43.48-1024x862.png",
         false);
         final Bubble bubble2 = createBubble("ข้าวซอยน้อย ",
         "5",
-        "https://drive.google.com/file/d/18ktoYllcT2XeZSByTnYXOD3YHqn5Vk3Z/view?usp=sharing",
+        "https://i.ytimg.com/vi/EqO7WY1oFB4/maxresdefault.jpg",
         true);
         final Bubble bubble3 = createBubble("ข้าวกั้นจิ้น",
         "5",
-        "https://drive.google.com/file/d/1GUE8ncRxpm3uTfIoYipwntjOXIRlXZqi/view?usp=sharing",
+        "http://ungsriwong.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2017/02/07071418/KhaoNgeoTaBun_05-1024x769.jpg",
         true);
         final Bubble bubble4 = createBubble("แคบหมู",
         "5",
-        "https://drive.google.com/file/d/1uM1a-zHMkv1JzD2IpwNL0zPr9_-wD1dN/view?usp=sharing",
+        "https://news.mthai.com/app/uploads/2018/09/21-09-18-28.jpg",
         true);
        
             final Bubble seeMore = createSeeMoreBubble();
