@@ -22,19 +22,19 @@ public class province3 Supplier<FlexMessage> {
     public FlexMessage get() {
     final Bubble bubble1 = createBubble("แกงเห็ดเผาะ",
     "5",
-    "https://drive.google.com/file/d/1AzN75pbkrCMgeYofMnlZ7UmY418dE9f4/view?usp=sharing",
+    "https://img.wongnai.com/p/1968x0/2020/06/03/b9f20f641dcd47e59bc1d04f0fdc09c7.jpg",
     false);
     final Bubble bubble2 = createBubble("แกงแคกบ",
     "5",
-    "https://drive.google.com/file/d/1NdA8h2DCr9WJDvHA-HgfIJZQmD0zMNLB/view?usp=sharing",
+    "http://th.openrice.com/userphoto/Recipe/0/3/0000NU9BC1F66EFFBCC44Bl.jpg",
     true);
     final Bubble bubble3 = createBubble("น้ำพริกเห็ดด่าน",
     "5",
-    "https://drive.google.com/file/d/1vRkMKJQp0uffbxS0gWyqPuMozL13DEUh/view?usp=sharing",
+    "https://i.ytimg.com/vi/sAC_Vt1wlJ0/hqdefault.jpg",
     true);
     final Bubble bubble4 = createBubble("ส้ามะเขือ",
     "5",
-    "https://drive.google.com/file/d/1At0Gq2hcO3JSMFJSBKjDAeD68iwB5_We/view?usp=sharing",
+    "https://i.ytimg.com/vi/viLaequndKs/maxresdefault.jpg",
     true);
    
         final Bubble seeMore = createSeeMoreBubble();
